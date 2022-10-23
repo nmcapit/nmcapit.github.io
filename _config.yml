@@ -5,3 +5,11 @@ collections_dir: collections # 选择指定一个目录来将所有合集存储�
 collections:
   collection01: # 你的collection名称
     output: true 
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "collection01" # a collection in your site, in plural form
+    values:
+      layout: "default"
