@@ -1,3 +1,6 @@
+---
+---
+
 # A Collection Post
 
 Content
