@@ -1,6 +1,6 @@
 ---
 tags: centos
-categories: linuux
+categories: linux
 ---
 
 # Tag Centos Post

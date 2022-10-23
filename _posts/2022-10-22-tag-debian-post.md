@@ -1,6 +1,6 @@
 ---
 tags: debian
-categories: linuux
+categories: linux
 ---
 
 # Tag Debian Post

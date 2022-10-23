@@ -1,6 +1,6 @@
 ---
 tags: ubuntu
-categories: linuux
+categories: linux
 ---
 
 # Tag Ubuntu Post
